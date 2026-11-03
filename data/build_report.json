@@ -1,0 +1,9 @@
+{
+  "build_status": "awaiting_open_corpus_download",
+  "curated_entry_count": 1379,
+  "selected_entries": 0,
+  "total_distinct_app_headwords": 1379,
+  "target": 10000,
+  "target_met": false,
+  "note": "首次本地交付：开放词库下载与自动清洗尚未在远程 GitHub Actions 环境执行；绝不将目标数量算作已收录。"
+}

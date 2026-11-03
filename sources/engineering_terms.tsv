@@ -1,0 +1,978 @@
+# 葡语工程术语 · 自建精选 · 术语按具体项目文件与所在国家调整
+# 格式：葡语词目|中文译法|应用场景|说明（选填）
+## 工程通用与设计
+engenharia|工程学；工程技术|工程 / 通用|
+engenheiro civil|土木工程师|工程 / 人员|
+engenheiro de estruturas|结构工程师|工程 / 人员|
+engenheiro eletrotécnico|电气工程师|工程 / 人员|
+engenheiro mecânico|机械工程师|工程 / 人员|
+engenheiro residente|驻地工程师|工程 / 监理|驻地工程师；职权以合同约定为准
+engenheiro supervisor|监理工程师|工程 / 监理|不同合同的监理名称可能不同
+fiscalização|工程监督；施工监理|工程 / 监理|葡萄牙项目常见对施工监督的称呼
+fiscal da obra|工程监理人员；现场监督员|工程 / 监理|
+diretor de obra|项目施工负责人；工程经理|工程 / 管理|
+diretor de projeto|项目负责人|工程 / 管理|
+chefe de estaleiro|工地负责人|工程 / 现场|
+encarregado de obra|施工工长；现场主管|工程 / 现场|
+empreiteiro|承包商；施工承包人|工程 / 合同|
+empreiteiro principal|总承包商|工程 / 合同|
+subempreiteiro|分包商|工程 / 合同|
+subempreitada|分包工程；分包合同|工程 / 合同|
+dono da obra|业主；建设单位|工程 / 合同|在合同中亦可译为发包人
+entidade adjudicante|招标人；授标方|工程 / 招标|
+consultor|咨询工程师；顾问|工程 / 人员|
+consultoria|咨询服务|工程 / 人员|
+empreitada|承包工程；工程承包合同|工程 / 合同|
+obra|工程；工地；施工|工程 / 通用|
+obras públicas|公共工程|工程 / 通用|
+obras civis|土建工程|工程 / 土建|
+obra provisória|临时工程|工程 / 临建|
+obra permanente|永久工程|工程 / 土建|
+projeto|项目；设计|工程 / 设计|葡语 projeto 可指项目或设计文件
+projeto de execução|施工图设计；实施设计|工程 / 设计|
+projeto de arquitetura|建筑设计|工程 / 设计|
+projeto de estruturas|结构设计|工程 / 设计|
+projeto de fundações|基础设计|工程 / 设计|
+projeto de instalações elétricas|电气安装设计|工程 / 设计|
+projeto de drenagem|排水设计|工程 / 设计|
+projeto hidráulico|水力工程设计|工程 / 水工|
+projeto geotécnico|岩土工程设计|工程 / 岩土|
+projeto de pontes|桥梁设计|工程 / 桥梁|
+projeto de estradas|道路设计|工程 / 道路|
+memória descritiva|设计说明书|工程 / 设计|
+memória de cálculo|计算书|工程 / 设计|
+caderno de encargos|技术与合同要求文件；招标技术文件|工程 / 合同|具体译法需依文书体系
+especificação técnica|技术规范；技术规格|工程 / 设计|
+condições gerais|一般条件|工程 / 合同|
+condições particulares|专用条件|工程 / 合同|
+desenho técnico|技术图纸|工程 / 设计|
+peças desenhadas|设计图纸；图纸文件|工程 / 设计|
+planta|平面图；图纸|工程 / 设计|
+planta de localização|位置图|工程 / 设计|
+planta de implantação|总平面布置图；定位图|工程 / 设计|
+planta de fundações|基础平面图|工程 / 设计|
+planta de armaduras|钢筋布置图|工程 / 设计|
+planta de cofragem|模板布置图|工程 / 设计|
+corte longitudinal|纵剖面图|工程 / 设计|
+corte transversal|横剖面图|工程 / 设计|
+secção transversal|横断面|工程 / 设计|
+perfil longitudinal|纵断面图|工程 / 设计|
+perfil transversal|横断面图|工程 / 设计|
+pormenor construtivo|施工详图|工程 / 设计|
+detalhe de ligação|连接详图|工程 / 设计|
+legenda|图例；图注|工程 / 设计|
+escala|比例尺；规模|工程 / 测量|
+eixo|轴线；轴|工程 / 测量|
+eixo de implantação|定位轴线|工程 / 测量|
+alinhamento|线形；对齐；轴线|工程 / 测量|
+cota|标高；高程；尺寸标注|工程 / 测量|依图纸上下文确定
+cota altimétrica|高程；标高|工程 / 测量|
+cota de fundo|底高程|工程 / 水工|
+cota de coroamento|坝顶或堤顶高程|工程 / 水工|
+coordenada|坐标|工程 / 测量|
+coordenadas geográficas|地理坐标|工程 / 测量|
+levantamento topográfico|地形测量|工程 / 测量|
+topografia|地形测量；地形|工程 / 测量|
+altimetria|高程测量|工程 / 测量|
+planimetria|平面测量|工程 / 测量|
+replanteamento|施工放样|工程 / 测量|部分国家也使用 locação
+implantação da obra|工程定位；施工布设|工程 / 测量|
+piquetagem|打桩定位；测设桩位|工程 / 测量|
+marco de referência|测量基准标志|工程 / 测量|
+ponto de controlo|控制点|工程 / 测量|
+referência de nível|水准基点|工程 / 测量|
+nivelamento|水准测量；找平|工程 / 测量|
+estação total|全站仪|工程 / 测量|
+teodolito|经纬仪|工程 / 测量|
+nível ótico|光学水准仪|工程 / 测量|
+levantamento batimétrico|水深测量|工程 / 测量|
+batimetria|水深测量|工程 / 测量|
+modelação tridimensional|三维建模|工程 / 设计|
+modelo de informação da construção|建筑信息模型|工程 / BIM|BIM 的葡语完整表述
+## 场地与土方岩土
+estaleiro|工地；施工营地|工程 / 现场|葡萄牙语也可指船厂，需结合语境
+instalações provisórias|临时设施|工程 / 临建|
+canteiro de obras|施工现场；工地|工程 / 现场|巴葡常用
+acesso à obra|施工便道；工地通道|工程 / 现场|
+estrada de acesso|进场道路|工程 / 道路|
+terraplenagem|土石方工程；整地|工程 / 土方|
+escavação|开挖；挖方|工程 / 土方|
+escavação em rocha|岩石开挖|工程 / 土方|
+escavação em solo|土方开挖|工程 / 土方|
+escavação manual|人工开挖|工程 / 土方|
+escavação mecânica|机械开挖|工程 / 土方|
+vala|沟槽|工程 / 土方|
+trincheira|沟渠；开挖槽|工程 / 土方|
+aterro|填方；回填；路堤|工程 / 土方|
+reaterro|回填土|工程 / 土方|
+solo|土壤；土体|工程 / 岩土|
+solo residual|残积土|工程 / 岩土|
+solo argiloso|黏性土|工程 / 岩土|
+solo arenoso|砂性土|工程 / 岩土|
+argila|黏土|工程 / 岩土|
+areia|砂|工程 / 材料|
+cascalho|砾石|工程 / 材料|
+saibro|砂质风化土；砂砾土|工程 / 材料|
+brita|碎石|工程 / 材料|
+agregado|骨料；集料|工程 / 材料|
+agregado fino|细骨料|工程 / 材料|
+agregado grosso|粗骨料|工程 / 材料|
+brita graduada|级配碎石|工程 / 材料|
+pedreira|采石场|工程 / 材料|
+jazida|矿床；料源地|工程 / 材料|
+emprestimo de terras|借土；取土|工程 / 土方|
+área de empréstimo|取土场|工程 / 土方|
+bota-fora|弃土场；弃渣处置|工程 / 土方|巴葡施工文件常见
+vazadouro|弃渣场；废料处置场|工程 / 土方|
+talude|边坡|工程 / 岩土|
+talude de corte|挖方边坡|工程 / 岩土|
+talude de aterro|填方边坡|工程 / 岩土|
+estabilidade de taludes|边坡稳定性|工程 / 岩土|
+escorregamento|滑坡；滑移|工程 / 岩土|
+deslizamento de terras|山体滑坡；土体滑坡|工程 / 岩土|
+erosão|侵蚀；冲刷|工程 / 岩土|
+recalque|沉降|工程 / 岩土|巴葡常用
+assentamento diferencial|差异沉降|工程 / 岩土|
+assentamento|沉降；落座；安置|工程 / 岩土|依具体语境
+compactação|压实|工程 / 岩土|
+grau de compactação|压实度|工程 / 岩土|
+densidade seca|干密度|工程 / 岩土|
+massa volúmica seca|干密度|工程 / 岩土|欧葡技术表达
+teor de humidade|含水率|工程 / 岩土|
+permeabilidade|渗透性；渗透系数|工程 / 岩土|
+condutividade hidráulica|水力传导系数；渗透系数|工程 / 岩土|
+capacidade de carga|承载力|工程 / 岩土|
+capacidade de suporte|承载能力；承载比|工程 / 岩土|
+sondagem|钻探；勘探孔|工程 / 岩土|
+sondagem geotécnica|岩土钻探|工程 / 岩土|
+ensaio de penetração padrão|标准贯入试验|工程 / 岩土|SPT
+ensaio SPT|标准贯入试验|工程 / 岩土|
+ensaio CPT|静力触探试验|工程 / 岩土|
+ensaio de placa|平板载荷试验|工程 / 岩土|
+ensaio de compactação|压实试验|工程 / 岩土|
+ensaio Proctor|普氏击实试验|工程 / 岩土|
+ensaio CBR|加州承载比试验|工程 / 岩土|
+nível freático|地下水位|工程 / 岩土|
+lençol freático|地下水位；潜水层|工程 / 岩土|
+aquífero|含水层|工程 / 岩土|
+drenagem subterrânea|地下排水|工程 / 岩土|
+rebaixamento do nível freático|地下水降水|工程 / 岩土|
+escora|支撑；斜撑|工程 / 支护|
+escoramento|支撑；临时支护|工程 / 支护|
+contenção de terras|挡土支护；土体支挡|工程 / 支护|
+muro de suporte|挡土墙|工程 / 支护|
+muro de contenção|挡土墙|工程 / 支护|
+gabião|石笼|工程 / 支护|
+ancoragem|锚固；锚杆支护|工程 / 支护|
+tirante|拉杆；锚索|工程 / 支护|
+pregagem do terreno|土钉支护|工程 / 支护|
+geotêxtil|土工布|工程 / 土工材料|
+geomembrana|土工膜|工程 / 土工材料|
+geogrelha|土工格栅|工程 / 土工材料|
+injeção de calda|浆液注入；灌浆|工程 / 岩土|
+calda de cimento|水泥浆|工程 / 岩土|
+injeção de consolidação|固结灌浆|工程 / 岩土|
+injeção de impermeabilização|防渗灌浆|工程 / 岩土|
+solo-cimento|水泥土|工程 / 岩土|
+microestaca|微型桩|工程 / 基础|
+fundação superficial|浅基础|工程 / 基础|
+fundação profunda|深基础|工程 / 基础|
+sapata isolada|独立基础|工程 / 基础|
+sapata corrida|条形基础|工程 / 基础|
+radier|筏板基础|工程 / 基础|巴葡常用
+laje de fundação|筏板基础|工程 / 基础|
+estaca|桩；桩基础|工程 / 基础|
+estaca cravada|打入桩；沉入桩|工程 / 基础|
+estaca moldada in situ|现场灌注桩|工程 / 基础|
+estaca escavada|钻孔灌注桩；挖孔桩|工程 / 基础|
+estaca pré-fabricada|预制桩|工程 / 基础|
+estaca de betão|混凝土桩|工程 / 基础|
+estaca metálica|钢桩|工程 / 基础|
+estaca-prancha|钢板桩；板桩|工程 / 基础|
+estaca raiz|根式桩|工程 / 基础|巴葡常见桩型名称
+estaca hélice contínua|长螺旋钻孔灌注桩|工程 / 基础|巴葡常见
+cravação de estacas|沉桩；打桩|工程 / 基础|
+cabeça da estaca|桩头|工程 / 基础|
+bloco de coroamento|承台；桩帽|工程 / 基础|
+viga de coroamento|冠梁；帽梁|工程 / 基础|
+capacete de cravação|打桩帽|工程 / 基础|
+martelo hidráulico|液压锤|工程 / 设备|
+bate-estacas|打桩机|工程 / 设备|
+penetrabilidade|可贯入性；穿透性|工程 / 岩土|
+nega da estaca|终锤贯入度；拒锤贯入量|工程 / 基础|沉桩记录中的特定表达
+## 桥梁与钢结构
+ponte|桥梁|工程 / 桥梁|
+viaduto|高架桥；陆桥|工程 / 桥梁|
+ponte rodoviária|公路桥|工程 / 桥梁|
+ponte pedonal|人行桥|工程 / 桥梁|
+ponte ferroviária|铁路桥|工程 / 桥梁|
+ponte suspensa|悬索桥|工程 / 桥梁|
+ponte estaiada|斜拉桥|工程 / 桥梁|
+ponte em arco|拱桥|工程 / 桥梁|
+ponte de vigas|梁桥|工程 / 桥梁|
+ponte de betão|混凝土桥|工程 / 桥梁|
+ponte metálica|钢桥；金属桥|工程 / 桥梁|
+ponte pré-fabricada|预制桥梁|工程 / 桥梁|
+travessia|跨越；渡口；过河通道|工程 / 桥梁|
+vão|跨径；跨度；孔跨|工程 / 桥梁|
+vão livre|净跨；净空跨径|工程 / 桥梁|
+vão principal|主跨|工程 / 桥梁|
+tramo|桥跨；节段|工程 / 桥梁|
+tabuleiro|桥面结构；桥面板|工程 / 桥梁|
+tabuleiro da ponte|桥面结构；桥面板|工程 / 桥梁|
+superestrutura|上部结构|工程 / 桥梁|
+infraestrutura|下部结构；基础设施|工程 / 桥梁|桥梁语境多为下部结构
+pilar|墩柱；支柱|工程 / 桥梁|
+pilar de ponte|桥墩|工程 / 桥梁|
+encontro|桥台|工程 / 桥梁|桥梁工程语境；普通用法为会面
+aparelho de apoio|桥梁支座|工程 / 桥梁|
+junta de dilatação|伸缩缝|工程 / 桥梁|
+junta de construção|施工缝|工程 / 混凝土|
+junta de betonagem|混凝土浇筑施工缝|工程 / 混凝土|
+junta de contração|收缩缝|工程 / 混凝土|
+viga|梁|工程 / 结构|
+viga principal|主梁|工程 / 结构|
+viga transversal|横梁|工程 / 结构|
+longarina|纵梁；主梁|工程 / 桥梁|
+travessa|横梁；横撑|工程 / 桥梁|
+contraventamento|横向支撑；抗侧向支撑|工程 / 钢结构|
+travamento|约束；连接加固|工程 / 钢结构|
+consola|悬臂；牛腿|工程 / 结构|
+laje|板；楼板；混凝土板|工程 / 结构|
+laje maciça|实心板|工程 / 结构|
+laje alveolar|空心板|工程 / 结构|
+viga caixão|箱梁|工程 / 桥梁|
+viga pré-esforçada|预应力梁|工程 / 桥梁|
+betão pré-esforçado|预应力混凝土|工程 / 混凝土|
+pré-esforço|预应力|工程 / 结构|
+cabo de pré-esforço|预应力钢束|工程 / 结构|
+cordão de aço|钢绞线|工程 / 钢结构|
+tendão de pré-esforço|预应力筋；预应力束|工程 / 结构|
+bainha|预应力孔道；护套|工程 / 结构|
+ancoragem de pré-esforço|预应力锚具|工程 / 结构|
+macaco de protensão|预应力张拉千斤顶|工程 / 结构|巴葡常用
+macaco hidráulico|液压千斤顶|工程 / 设备|
+tensionamento|张拉；施加拉力|工程 / 结构|巴葡常见
+protensão|预应力|工程 / 结构|巴葡常见
+armação|钢筋骨架；钢筋绑扎|工程 / 钢筋|
+armadura|钢筋；配筋|工程 / 钢筋|
+armadura longitudinal|纵向钢筋|工程 / 钢筋|
+armadura transversal|横向钢筋|工程 / 钢筋|
+estribo|箍筋|工程 / 钢筋|
+varão de aço|钢筋|工程 / 钢筋|欧葡常用
+barra de aço|钢筋；钢棒|工程 / 钢筋|
+vergalhão|钢筋|工程 / 钢筋|巴葡常用
+recobrimento|保护层厚度；覆盖|工程 / 钢筋|
+recobrimento de betão|混凝土保护层|工程 / 钢筋|
+espaçador|钢筋垫块；间隔件|工程 / 钢筋|
+emenda|接头；连接|工程 / 钢筋|
+transpasse|搭接；搭接长度|工程 / 钢筋|
+luva de ligação|钢筋连接套筒|工程 / 钢筋|
+ligação aparafusada|螺栓连接|工程 / 钢结构|
+ligação soldada|焊接连接|工程 / 钢结构|
+chapa de ligação|连接板|工程 / 钢结构|
+chapa de base|底板；柱脚板|工程 / 钢结构|
+perfil metálico|型钢；金属型材|工程 / 钢结构|
+perfil em I|工字钢；I型钢|工程 / 钢结构|
+perfil em H|H型钢|工程 / 钢结构|
+perfil tubular|管型材；钢管截面|工程 / 钢结构|
+viga metálica|钢梁|工程 / 钢结构|
+chapa de aço|钢板|工程 / 钢结构|
+aço estrutural|结构钢|工程 / 钢结构|
+parafuso de alta resistência|高强螺栓|工程 / 钢结构|
+porca|螺母|工程 / 钢结构|
+anilha|垫圈|工程 / 钢结构|
+solda|焊缝；焊接|工程 / 焊接|
+soldadura|焊接；焊缝|工程 / 焊接|欧葡常用
+cordão de soldadura|焊道；焊缝|工程 / 焊接|
+eletrodo|焊条；电极|工程 / 焊接|
+soldadura por arco|电弧焊|工程 / 焊接|
+soldadura MIG/MAG|MIG/MAG气体保护焊|工程 / 焊接|
+soldadura TIG|钨极氩弧焊|工程 / 焊接|
+soldadura de topo|对接焊|工程 / 焊接|
+soldadura de filete|角焊缝；角焊|工程 / 焊接|
+preparação de bordos|坡口加工；边缘准备|工程 / 焊接|
+inspeção visual de soldaduras|焊缝外观检查（VT）|工程 / 焊接|
+ensaio por ultrassons|超声检测（UT）|工程 / 焊接|
+ensaio por partículas magnéticas|磁粉检测（MT）|工程 / 焊接|
+ensaio por líquidos penetrantes|渗透检测（PT）|工程 / 焊接|
+ensaio radiográfico|射线检测（RT）|工程 / 焊接|
+ensaio não destrutivo|无损检测|工程 / 检测|
+procedimento de soldadura|焊接工艺规程|工程 / 焊接|WPS
+qualificação do procedimento de soldadura|焊接工艺评定|工程 / 焊接|PQR 对应工艺评定
+qualificação de soldadores|焊工资格认证|工程 / 焊接|
+corrosão|腐蚀|工程 / 钢结构|
+galvanização|镀锌|工程 / 钢结构|
+proteção anticorrosiva|防腐保护|工程 / 钢结构|
+revestimento anticorrosivo|防腐涂层|工程 / 钢结构|
+jateamento abrasivo|喷砂除锈；磨料喷射清理|工程 / 钢结构|
+primário anticorrosivo|防腐底漆|工程 / 钢结构|
+## 混凝土模板施工
+betão|混凝土|工程 / 混凝土|欧葡常用
+concreto|混凝土|工程 / 混凝土|巴葡常用
+cimento|水泥|工程 / 混凝土|
+cimento Portland|硅酸盐水泥；波特兰水泥|工程 / 混凝土|
+betão armado|钢筋混凝土|工程 / 混凝土|欧葡常用
+concreto armado|钢筋混凝土|工程 / 混凝土|巴葡常用
+betão simples|素混凝土|工程 / 混凝土|
+betão projetado|喷射混凝土|工程 / 混凝土|
+concreto projetado|喷射混凝土|工程 / 混凝土|巴葡常用
+betão magro|贫混凝土；垫层混凝土|工程 / 混凝土|
+betão de limpeza|垫层混凝土|工程 / 混凝土|
+betão autocompactável|自密实混凝土|工程 / 混凝土|
+concreto autoadensável|自密实混凝土|工程 / 混凝土|巴葡常用
+traço do betão|混凝土配合比|工程 / 混凝土|
+dosagem|配料；配合比；剂量|工程 / 混凝土|
+relação água-cimento|水灰比|工程 / 混凝土|
+central de betonagem|混凝土搅拌站|工程 / 混凝土|欧葡工程文件常用
+central de concreto|混凝土搅拌站|工程 / 混凝土|巴葡工程文件常用
+betoneira|混凝土搅拌机|工程 / 设备|
+autobetoneira|混凝土运输搅拌车|工程 / 设备|
+camião-betoneira|混凝土搅拌运输车|工程 / 设备|
+bomba de betão|混凝土泵|工程 / 设备|
+bomba de concreto|混凝土泵|工程 / 设备|巴葡常用
+mangueira de bombagem|泵送软管|工程 / 设备|
+betonagem|混凝土浇筑|工程 / 混凝土|欧葡常用
+concretagem|混凝土浇筑|工程 / 混凝土|巴葡常用
+lançamento do betão|混凝土下料；混凝土浇筑|工程 / 混凝土|
+adensamento do concreto|混凝土振捣密实|工程 / 混凝土|巴葡常用
+vibração do betão|混凝土振捣|工程 / 混凝土|
+vibrador de imersão|插入式振捣器|工程 / 混凝土|
+vibrador externo|附着式振捣器|工程 / 混凝土|
+cofragem|模板；模板系统|工程 / 模板|欧葡常用
+fôrma|模板|工程 / 模板|巴葡常用
+fôrmas|模板（复数）|工程 / 模板|
+cimbre|支架；拱架；临时承重架|工程 / 模板|
+andaime|脚手架|工程 / 临建|
+andaime tubular|钢管脚手架|工程 / 临建|
+andaime suspenso|悬挂脚手架|工程 / 临建|
+descofragem|拆模|工程 / 模板|
+desforma|拆模|工程 / 模板|巴葡常用
+escoramento de lajes|楼板支撑体系|工程 / 模板|
+cura do betão|混凝土养护|工程 / 混凝土|
+cura húmida|湿养护|工程 / 混凝土|
+resistência à compressão|抗压强度|工程 / 混凝土|
+resistência à tração|抗拉强度|工程 / 混凝土|
+resistência à flexão|抗弯强度|工程 / 混凝土|
+resistência característica|特征强度|工程 / 混凝土|
+classe de resistência|强度等级|工程 / 混凝土|
+ensaio de abatimento|坍落度试验|工程 / 混凝土|
+ensaio de slump|坍落度试验|工程 / 混凝土|
+cone de Abrams|坍落度筒；阿布拉姆斯圆锥|工程 / 混凝土|
+abatimento|坍落度；沉降|工程 / 混凝土|混凝土技术语境指坍落度
+consistência|稠度；一致性|工程 / 混凝土|
+trabalhabilidade|和易性；施工性能|工程 / 混凝土|
+segregação|离析|工程 / 混凝土|
+exsudação|泌水|工程 / 混凝土|
+porosidade|孔隙率；孔隙性|工程 / 材料|
+fissura|裂缝；裂纹|工程 / 质量|
+rachadura|裂缝；开裂|工程 / 质量|巴葡一般用法
+fendilhação|开裂；裂缝形成|工程 / 质量|
+retração|收缩|工程 / 混凝土|
+fluência|徐变|工程 / 混凝土|
+tempo de presa|凝结时间|工程 / 混凝土|
+pega inicial|初凝|工程 / 混凝土|巴葡常用
+pega final|终凝|工程 / 混凝土|巴葡常用
+aditivo|外加剂；添加剂|工程 / 材料|
+adjuvante|外加剂；助剂|工程 / 材料|
+plastificante|塑化剂；减水剂|工程 / 材料|
+superplastificante|高效减水剂|工程 / 材料|
+retardador de presa|缓凝剂|工程 / 材料|
+acelerador de presa|促凝剂|工程 / 材料|
+impermeabilizante|防水剂|工程 / 材料|
+membrana de cura|养护膜；养护剂形成的膜|工程 / 混凝土|
+provete|试件|工程 / 检测|欧葡常用
+corpo de prova|试件|工程 / 检测|巴葡常用
+provete cúbico|立方体试件|工程 / 检测|
+provete cilíndrico|圆柱体试件|工程 / 检测|
+ensaio de compressão|抗压试验|工程 / 检测|
+extracção de carotes|钻芯取样|工程 / 检测|
+carote|芯样；芯钻试样|工程 / 检测|
+## 水利水电与供排水
+hidráulica|水力学；液压技术|工程 / 水工|
+hidrologia|水文学|工程 / 水工|
+bacia hidrográfica|流域；汇水区|工程 / 水工|
+área de drenagem|汇水面积|工程 / 水工|
+caudal|流量|工程 / 水工|欧葡常用
+vazão|流量|工程 / 水工|巴葡常用
+caudal de projeto|设计流量|工程 / 水工|
+caudal máximo|最大流量|工程 / 水工|
+caudal ecológico|生态流量|工程 / 水工|
+caudal de cheia|洪峰流量；洪水流量|工程 / 水工|
+cheia|洪水；涨水|工程 / 水工|
+inundação|淹没；洪灾|工程 / 水工|
+nível de água|水位|工程 / 水工|
+nível normal de retenção|正常蓄水位|工程 / 水工|
+nível máximo de cheia|最高洪水位|工程 / 水工|
+nível mínimo de exploração|最低运行水位|工程 / 水工|
+reservatório|水库；蓄水池|工程 / 水工|
+albufeira|水库；水库蓄水区|工程 / 水工|欧葡偏指库区水体
+barragem|大坝|工程 / 水工|
+barragem de betão|混凝土坝|工程 / 水工|
+barragem de terra|土坝|工程 / 水工|
+barragem de enrocamento|堆石坝|工程 / 水工|
+barragem de gravidade|重力坝|工程 / 水工|
+barragem em arco|拱坝|工程 / 水工|
+barragem de betão compactado com cilindros|碾压混凝土坝|工程 / 水工|RCC坝
+barragem de enrocamento com face de betão|混凝土面板堆石坝|工程 / 水工|
+fundação da barragem|大坝坝基|工程 / 水工|
+corpo da barragem|坝体|工程 / 水工|
+coroamento da barragem|坝顶|工程 / 水工|
+paramento de montante|上游坝面|工程 / 水工|
+paramento de jusante|下游坝面|工程 / 水工|
+montante|上游；上侧|工程 / 水工|
+jusante|下游；下侧|工程 / 水工|
+vertedouro|溢洪道；泄洪建筑物|工程 / 水工|巴葡常用
+vertedoiro|溢洪道|工程 / 水工|欧葡旧拼写或变体
+extravasor|溢洪道；泄水建筑物|工程 / 水工|
+descarga de fundo|底孔泄洪；底部放水设施|工程 / 水工|
+descarregador de cheias|泄洪道；泄洪建筑物|工程 / 水工|欧葡常见
+soleira descarregadora|溢流堰顶；溢流坎|工程 / 水工|
+tomada de água|进水口；取水设施|工程 / 水工|
+torre de tomada de água|取水塔|工程 / 水工|
+câmara de carga|前池；压力前池|工程 / 水工|
+conduta forçada|压力钢管；引水压力管道|工程 / 水工|
+tubulação forçada|压力管道|工程 / 水工|巴葡常用
+canal de adução|引水渠|工程 / 水工|
+túnel de adução|引水隧洞|工程 / 水工|
+túnel de desvio|导流隧洞|工程 / 水工|
+desvio do rio|河道导流|工程 / 水工|
+ensecadeira|围堰|工程 / 水工|
+cofferdam|围堰（英语借词）|工程 / 水工|葡语标准表达通常为 ensecadeira
+cortina de impermeabilização|防渗帷幕|工程 / 水工|
+cortina de injeção|灌浆帷幕|工程 / 水工|
+cortina de drenagem|排水幕|工程 / 水工|
+galeria de drenagem|排水廊道|工程 / 水工|
+galeria de inspeção|检查廊道|工程 / 水工|
+chaminé de equilíbrio|调压井|工程 / 水工|
+poço de equilíbrio|调压井|工程 / 水工|
+casa de máquinas|厂房；机房|工程 / 水电|
+central hidroelétrica|水电站|工程 / 水电|
+aproveitamento hidroelétrico|水电开发工程；水电枢纽|工程 / 水电|
+turbina hidráulica|水轮机|工程 / 水电|
+turbina Francis|混流式水轮机|工程 / 水电|
+turbina Kaplan|轴流转桨式水轮机|工程 / 水电|
+turbina Pelton|冲击式水轮机|工程 / 水电|
+gerador|发电机|工程 / 水电|
+alternador|交流发电机|工程 / 水电|
+rotor|转子|工程 / 水电|
+estator|定子|工程 / 水电|
+regulador de velocidade|调速器|工程 / 水电|
+potência instalada|装机容量|工程 / 水电|
+energia firme|保证电量；保证出力对应电量|工程 / 水电|
+altura de queda|水头；落差|工程 / 水电|
+queda líquida|净水头|工程 / 水电|
+perdas de carga|水头损失|工程 / 水工|
+pressão hidrostática|静水压力|工程 / 水工|
+cavitação|空化；汽蚀|工程 / 水电|
+golpe de aríete|水锤；水击|工程 / 水工|
+comporta|闸门|工程 / 水工|
+comporta de segmento|弧形闸门|工程 / 水工|
+comporta plana|平面闸门|工程 / 水工|
+comporta de correr|滑动闸门|工程 / 水工|
+comporta de emergência|事故闸门；紧急闸门|工程 / 水工|
+comporta de manutenção|检修闸门|工程 / 水工|
+comporta de ensecadeira|叠梁式检修闸门；挡水闸门|工程 / 水工|需结合结构形式
+válvula|阀门|工程 / 水工|
+válvula de borboleta|蝶阀|工程 / 水工|
+válvula de esfera|球阀|工程 / 水工|
+válvula de retenção|止回阀|工程 / 水工|
+válvula de alívio|泄压阀|工程 / 水工|
+válvula de gaveta|闸阀|工程 / 水工|
+vedação|密封；止水|工程 / 水工|
+junta de impermeabilização|防水接缝；止水接缝|工程 / 水工|
+fita de vedação|止水带；密封带|工程 / 水工|需结合材料类型
+waterstop|止水带|工程 / 水工|英语借词，合同技术规格以原文用词为准
+bomba centrífuga|离心泵|工程 / 水工|
+estação de bombagem|泵站|工程 / 水工|
+estação elevatória|提升泵站|工程 / 水工|
+bomba submersível|潜水泵|工程 / 水工|
+bomba de drenagem|排水泵|工程 / 水工|
+coletor de águas pluviais|雨水收集管；雨水管道|工程 / 排水|
+coletor de esgotos|污水收集管道|工程 / 排水|
+canalização|管道；配管|工程 / 排水|
+tubagem|管道；管系|工程 / 排水|
+tubulação|管道系统；管线|工程 / 排水|巴葡常用
+bueiro|涵洞；排水管涵|工程 / 道路|
+aqueduto|渡槽；输水渠桥|工程 / 水工|
+canal de irrigação|灌溉渠道|工程 / 灌溉|
+comporta de regulação|调节闸门|工程 / 灌溉|
+rede de irrigação|灌溉管网|工程 / 灌溉|
+perímetro irrigado|灌区|工程 / 灌溉|
+drenagem superficial|地表排水|工程 / 排水|
+drenagem longitudinal|纵向排水|工程 / 排水|
+drenagem transversal|横向排水|工程 / 排水|
+## 道路与交通
+estrada|道路；公路|工程 / 道路|
+rodovia|公路|工程 / 道路|巴葡常用
+via|道路；通道|工程 / 道路|
+via de acesso|进场道路；通道|工程 / 道路|
+via rápida|快速路|工程 / 道路|
+autoestrada|高速公路|工程 / 道路|欧葡常用
+autopista|高速道路|工程 / 道路|地区用法需核对
+pavimento|路面；地坪；楼层|工程 / 道路|语境区分
+pavimento flexível|柔性路面|工程 / 道路|
+pavimento rígido|刚性路面|工程 / 道路|
+pavimentação|铺筑；路面施工|工程 / 道路|
+camada de sub-base|底基层|工程 / 道路|
+camada de base|基层|工程 / 道路|
+subleito|路基顶面；路床|工程 / 道路|巴葡常用
+leito do pavimento|路床；路面结构基底|工程 / 道路|
+revestimento asfáltico|沥青面层|工程 / 道路|巴葡常用
+mistura betuminosa|沥青混合料|工程 / 道路|
+concreto betuminoso|沥青混凝土|工程 / 道路|巴葡常用
+betão betuminoso|沥青混凝土|工程 / 道路|欧葡常用
+asfalto|沥青；沥青路面|工程 / 道路|
+betume|沥青结合料|工程 / 道路|
+emulsão betuminosa|乳化沥青|工程 / 道路|
+rega de impregnação|透层油喷洒|工程 / 道路|
+rega de colagem|粘层油喷洒|工程 / 道路|
+camada de desgaste|磨耗层；面层|工程 / 道路|
+camada de regularização|调平层|工程 / 道路|
+berma|路肩|工程 / 道路|
+acostamento|路肩|工程 / 道路|巴葡常用|
+passeio|人行道|工程 / 道路|欧葡常用
+calçada|人行道；铺装路面|工程 / 道路|巴葡常用
+lancil|路缘石|工程 / 道路|欧葡常用
+meio-fio|路缘石|工程 / 道路|巴葡常用
+valeta|排水边沟|工程 / 道路|
+sarjeta|路缘排水沟；水沟|工程 / 道路|
+passagem hidráulica|排水涵洞；过水构造物|工程 / 道路|
+passagem inferior|下穿通道|工程 / 道路|
+passagem superior|上跨通道|工程 / 道路|
+rotunda|环岛|工程 / 道路|欧葡常用
+rotatória|环岛|工程 / 道路|巴葡常用
+entroncamento|道路交叉口；接合点|工程 / 道路|
+cruzamento|交叉口|工程 / 道路|
+interseção|交叉；交汇|工程 / 道路|
+sinalização rodoviária|道路交通标志标线|工程 / 道路|
+sinalização horizontal|道路标线|工程 / 道路|
+sinalização vertical|道路标志|工程 / 道路|
+marcação rodoviária|路面标线|工程 / 道路|
+guarda de segurança|公路护栏|工程 / 道路|
+barreira de proteção|防护栏；安全屏障|工程 / 道路|
+barreira de betão|混凝土护栏|工程 / 道路|
+sinal temporário|临时交通标志|工程 / 道路|
+desvio de tráfego|交通改道；交通疏导|工程 / 道路|
+plano de gestão do tráfego|交通组织方案|工程 / 道路|
+tráfego|交通流；车辆通行|工程 / 道路|
+trânsito|交通；通行|工程 / 道路|
+velocidade de projeto|设计速度|工程 / 道路|
+raio de curvatura|曲线半径|工程 / 道路|
+superelevação|超高|工程 / 道路|
+pendente longitudinal|纵坡|工程 / 道路|
+inclinação transversal|横坡|工程 / 道路|
+## 机械机电电气
+máquina|机械；机器|工程 / 设备|
+equipamento|设备|工程 / 设备|
+equipamento de construção|施工设备|工程 / 设备|
+equipamento pesado|重型设备|工程 / 设备|
+escavadora|挖掘机|工程 / 设备|欧葡常用
+escavadeira|挖掘机|工程 / 设备|巴葡常用
+retroescavadora|反铲挖掘机；挖掘装载机|工程 / 设备|
+retroescavadeira|反铲挖掘机；挖掘装载机|工程 / 设备|巴葡常用
+pá carregadora|装载机|工程 / 设备|
+carregadora frontal|前装载机|工程 / 设备|
+bulldozer|推土机|工程 / 设备|英语借词
+trator de esteiras|履带式推土机；履带拖拉机|工程 / 设备|需结合设备功能
+motoniveladora|平地机|工程 / 设备|
+compactador|压路机；夯实机|工程 / 设备|
+rolo compactador|压路机|工程 / 设备|
+rolo vibratório|振动压路机|工程 / 设备|
+rolo pneumático|轮胎压路机|工程 / 设备|
+placa vibratória|平板夯|工程 / 设备|
+cilindro|滚筒；油缸；圆柱体|工程 / 设备|
+cilindro hidráulico|液压缸|工程 / 设备|
+camião basculante|自卸车|工程 / 设备|欧葡常用
+caminhão basculante|自卸车|工程 / 设备|巴葡常用
+camião-grua|随车起重机|工程 / 设备|
+grua|起重机；塔吊|工程 / 设备|
+grua de torre|塔式起重机|工程 / 设备|
+grua móvel|汽车起重机；移动式起重机|工程 / 设备|
+guindaste|起重机|工程 / 设备|巴葡常用
+ponte rolante|桥式起重机|工程 / 设备|
+pórtico rolante|门式起重机|工程 / 设备|
+talha|葫芦；起重吊具|工程 / 设备|
+polia|滑轮|工程 / 设备|
+roldana|滑轮；滑车|工程 / 设备|
+moitão|滑轮组；吊钩滑车|工程 / 设备|
+cabo de aço|钢丝绳|工程 / 设备|
+cinta de elevação|吊装带|工程 / 设备|
+gancho de elevação|起重吊钩|工程 / 设备|
+linga|吊索|工程 / 设备|
+manilha|卸扣|工程 / 设备|
+balancim de elevação|平衡梁；吊装横梁|工程 / 设备|
+empilhador|叉车|工程 / 设备|欧葡常用
+empilhadeira|叉车|工程 / 设备|巴葡常用
+plataforma elevatória|升降工作平台|工程 / 设备|
+compressor de ar|空气压缩机|工程 / 设备|
+gerador diesel|柴油发电机|工程 / 设备|
+grupo gerador|发电机组|工程 / 设备|
+motor elétrico|电动机|工程 / 机电|
+redutor de velocidade|减速器|工程 / 机电|
+acoplamento|联轴器|工程 / 机电|
+rolamento|轴承|工程 / 机电|
+mancal|轴承座|工程 / 机电|
+engrenagem|齿轮|工程 / 机电|
+eixo de transmissão|传动轴|工程 / 机电|
+vedante|密封件；密封材料|工程 / 机电|
+junta de vedação|密封垫；密封圈|工程 / 机电|
+retentor|油封；止动件|工程 / 机电|
+lubrificante|润滑剂|工程 / 机电|
+óleo hidráulico|液压油|工程 / 机电|
+circuito hidráulico|液压回路|工程 / 机电|
+pressão nominal|额定压力|工程 / 机电|
+pressão de serviço|工作压力|工程 / 机电|
+temperatura de serviço|工作温度|工程 / 机电|
+caudal nominal|额定流量|工程 / 机电|
+quadro elétrico|配电柜；电气柜|工程 / 电气|
+quadro de distribuição|配电箱；配电柜|工程 / 电气|
+painel de controlo|控制柜；控制面板|工程 / 电气|
+armário elétrico|电气柜|工程 / 电气|
+subestação|变电站|工程 / 电气|
+transformador|变压器|工程 / 电气|
+transformador de potência|电力变压器|工程 / 电气|
+disjuntor|断路器|工程 / 电气|
+interruptor|开关|工程 / 电气|
+seccionador|隔离开关|工程 / 电气|
+contator|接触器|工程 / 电气|
+relé de proteção|保护继电器|工程 / 电气|
+fusível|熔断器|工程 / 电气|
+cabo elétrico|电缆|工程 / 电气|
+cabo de potência|电力电缆|工程 / 电气|
+cabo de controlo|控制电缆|工程 / 电气|
+cabo de instrumentação|仪表电缆|工程 / 电气|
+condutor|导线；导体|工程 / 电气|
+condutor de proteção|保护导体；PE线|工程 / 电气|
+ligação à terra|接地|工程 / 电气|欧葡常用
+aterramento|接地|工程 / 电气|巴葡常用
+resistência de terra|接地电阻|工程 / 电气|
+malha de terra|接地网|工程 / 电气|
+curto-circuito|短路|工程 / 电气|
+sobrecarga|过载|工程 / 电气|
+queda de tensão|电压降|工程 / 电气|
+tensão nominal|额定电压|工程 / 电气|
+corrente nominal|额定电流|工程 / 电气|
+frequência nominal|额定频率|工程 / 电气|
+potência ativa|有功功率|工程 / 电气|
+potência reativa|无功功率|工程 / 电气|
+fator de potência|功率因数|工程 / 电气|
+medidor de energia|电能表|工程 / 电气|
+contador de energia|电能表|工程 / 电气|欧葡常用
+multímetro|万用表|工程 / 电气|
+megómetro|绝缘电阻测试仪|工程 / 电气|
+teste de isolamento|绝缘测试|工程 / 电气|
+ensaio dielétrico|耐压试验；介电试验|工程 / 电气|
+comissionamento|调试；投运准备|工程 / 电气|
+colocação em serviço|投入运行；投运|工程 / 电气|
+arranque|启动；开机|工程 / 设备|
+paragem|停机；停止|工程 / 设备|
+manutenção preventiva|预防性维护|工程 / 机电|
+manutenção corretiva|故障维修；纠正性维护|工程 / 机电|
+peças sobressalentes|备品备件|工程 / 机电|
+manual de operação|操作手册|工程 / 机电|
+manual de manutenção|维护手册|工程 / 机电|
+## 合同计量进度
+contrato|合同|工程 / 合同|
+contrato de empreitada|工程承包合同|工程 / 合同|
+contrato de construção|施工合同|工程 / 合同|
+proposta técnica|技术标；技术建议书|工程 / 投标|
+proposta financeira|商务报价；财务标|工程 / 投标|
+concurso público|公开招标|工程 / 招标|
+procedimento de concurso|招标程序|工程 / 招标|
+documentos do concurso|招标文件|工程 / 招标|
+convite à apresentação de propostas|投标邀请书|工程 / 招标|
+carta de intenção|意向函|工程 / 合同|
+carta de adjudicação|授标函|工程 / 合同|
+notificação de adjudicação|中标通知|工程 / 合同|
+ordem de início|开工令|工程 / 合同|
+ordem de serviço|工作指令；服务指令|工程 / 合同|
+ordem de alteração|变更指令|工程 / 合同|
+instrução da fiscalização|监理指令|工程 / 合同|
+trabalhos contratuais|合同工程|工程 / 合同|
+âmbito dos trabalhos|工作范围|工程 / 合同|
+escopo dos trabalhos|工作范围|工程 / 合同|巴葡常用
+trabalhos adicionais|追加工程；额外工程|工程 / 合同|
+trabalhos a mais|额外工程；增加工程量|工程 / 合同|
+trabalhos a menos|减少工程量|工程 / 合同|
+trabalhos imprevistos|不可预见工程|工程 / 合同|
+variação|变更；差异|工程 / 合同|
+alteração de projeto|设计变更|工程 / 合同|
+aditamento ao contrato|合同补充协议|工程 / 合同|
+revisão do contrato|合同修订；合同审查|工程 / 合同|
+prazo contratual|合同工期|工程 / 进度|
+prazo de execução|施工期限；履约期限|工程 / 进度|
+prorrogação de prazo|工期延长|工程 / 进度|
+pedido de prorrogação de prazo|工期延期申请|工程 / 进度|
+justificação do atraso|延期理由说明|工程 / 进度|
+atraso|延误；延期|工程 / 进度|
+atraso imputável ao empreiteiro|承包商责任延误|工程 / 进度|
+atraso não imputável ao empreiteiro|非承包商责任延误|工程 / 进度|
+cronograma|施工进度计划；时间表|工程 / 进度|巴葡常用
+programa de trabalhos|施工计划；施工进度计划|工程 / 进度|欧葡常见
+plano de trabalhos|施工计划|工程 / 进度|
+programação|计划安排|工程 / 进度|
+programação da obra|施工计划安排|工程 / 进度|
+caminho crítico|关键路径|工程 / 进度|
+atividade crítica|关键活动|工程 / 进度|
+marco|里程碑；标志点|工程 / 进度|
+marco contratual|合同里程碑|工程 / 进度|
+progresso físico|工程形象进度；实物进度|工程 / 进度|
+percentagem de conclusão|完成百分比|工程 / 进度|
+medição dos trabalhos|工程量计量|工程 / 计量|
+auto de medição|工程量计量报表；计量单|工程 / 计量|与 IPC 的对应要按合同确定
+boletim de medição|计量报表|工程 / 计量|
+mapa de quantidades|工程量清单|工程 / 计量|
+lista de quantidades|工程量清单|工程 / 计量|
+quantidade executada|已完成工程量|工程 / 计量|
+preço unitário|单价|工程 / 计量|
+preço global|总价|工程 / 计量|
+preço contratual|合同价格|工程 / 计量|
+preço provisório|暂定价格|工程 / 计量|
+preço ajustado|调整后价格|工程 / 计量|
+reajustamento de preços|价格调整|工程 / 合同|
+revisão de preços|价格调整；价格复核|工程 / 合同|
+valor contratual|合同金额|工程 / 合同|
+valor acumulado|累计金额|工程 / 计量|
+valor certificado|已认证金额|工程 / 计量|
+certificado de pagamento|付款证书|工程 / 付款|
+certificado de pagamento intercalar|中期付款证书|工程 / 付款|
+pagamento intercalar|中期付款|工程 / 付款|
+pagamento antecipado|预付款|工程 / 付款|
+adiantamento|预付款；预支|工程 / 付款|
+recuperação do adiantamento|预付款扣回|工程 / 付款|
+retenção|保留金；扣留|工程 / 付款|
+retenção de garantia|质保金；保留金|工程 / 付款|
+libertação da retenção|保留金释放|工程 / 付款|
+fatura|发票|工程 / 付款|
+fatura pro forma|形式发票|工程 / 付款|
+fatura comercial|商业发票|工程 / 付款|
+pedido de pagamento|付款申请|工程 / 付款|
+ordem de pagamento|付款指令|工程 / 付款|
+garantia bancária|银行保函|工程 / 保函|
+garantia de boa execução|履约保函；良好履约担保|工程 / 保函|
+garantia de adiantamento|预付款保函|工程 / 保函|
+garantia de retenção|保留金保函|工程 / 保函|
+caução|保证金；担保|工程 / 保函|
+apólice de seguro|保险单|工程 / 保险|
+seguro de obras|工程保险|工程 / 保险|
+seguro de responsabilidade civil|第三者责任保险|工程 / 保险|
+risco do empreiteiro|承包商风险|工程 / 风险|
+força maior|不可抗力|工程 / 风险|
+evento compensável|可补偿事件|工程 / 风险|特定合同机制下使用
+reclamação|索赔；申诉|工程 / 合同|
+reivindicação contratual|合同索赔|工程 / 合同|
+notificação de reclamação|索赔通知|工程 / 合同|
+resolução de litígios|争议解决|工程 / 合同|
+arbitragem|仲裁|工程 / 合同|
+rescisão contratual|合同解除|工程 / 合同|
+incumprimento contratual|违约|工程 / 合同|
+penalidade contratual|合同违约金；处罚|工程 / 合同|
+multa por atraso|延误罚款；延期违约金|工程 / 合同|
+liquidação de danos|损害赔偿金额结算|工程 / 合同|
+aceitação provisória|临时验收；初步接收|工程 / 验收|
+receção provisória|初步接收；临时验收|工程 / 验收|欧葡合同常用
+receção definitiva|最终接收；最终验收|工程 / 验收|
+certificado de receção provisória|初步接收证书|工程 / 验收|
+certificado de receção definitiva|最终接收证书|工程 / 验收|
+certificado de conclusão|完工证书|工程 / 验收|
+certificado de tomada de posse|接管证书|工程 / 验收|是否对应 TOC 取决于合同定义
+termo de entrega|移交记录；交接书|工程 / 验收|
+entrega da obra|工程移交|工程 / 验收|
+conclusão substancial|实质性完工|工程 / 验收|
+lista de pendências|遗留事项清单；待办缺陷清单|工程 / 验收|
+lista de defeitos|缺陷清单|工程 / 验收|
+período de garantia|保修期；质保期|工程 / 验收|
+período de responsabilidade por defeitos|缺陷责任期|工程 / 验收|
+correção de defeitos|缺陷整改|工程 / 验收|
+retificação de defeitos|缺陷修复|工程 / 验收|
+trabalhos de reparação|维修工作|工程 / 验收|
+conta final|最终结算；竣工结算|工程 / 结算|
+relatório final|最终报告|工程 / 结算|
+## 质量试验与现场安全
+qualidade|质量|工程 / 质量|
+garantia da qualidade|质量保证|工程 / 质量|
+controlo de qualidade|质量控制|工程 / 质量|
+controle de qualidade|质量控制|工程 / 质量|巴葡拼写
+plano de qualidade|质量计划|工程 / 质量|
+plano de inspeção e ensaios|检验试验计划|工程 / 质量|ITP
+procedimento de inspeção|检验程序|工程 / 质量|
+procedimento construtivo|施工工艺程序|工程 / 质量|
+procedimento de execução|实施程序；施工工法|工程 / 质量|
+metodologia de construção|施工方法|工程 / 质量|
+método de execução|施工方法|工程 / 质量|
+plano de controlo|控制计划|工程 / 质量|
+inspeção|检查；检验|工程 / 质量|
+inspeção conjunta|联合检查|工程 / 质量|
+ensaio|试验；测试|工程 / 质量|
+amostragem|取样；抽样|工程 / 质量|
+amostra|样品|工程 / 质量|
+laboratório de obra|工地实验室|工程 / 质量|
+ensaio laboratorial|实验室试验|工程 / 质量|
+ensaio em obra|现场试验|工程 / 质量|
+ensaio de carga|荷载试验|工程 / 质量|
+ensaio de integridade de estacas|桩完整性检测|工程 / 质量|
+ensaio de carga estática|静载试验|工程 / 质量|
+ensaio de carga dinâmica|动载试验|工程 / 质量|
+ensaio de estanqueidade|水密性试验；严密性试验|工程 / 质量|
+ensaio de pressão|压力试验|工程 / 质量|
+ensaio de funcionamento|功能试验|工程 / 质量|
+ensaio de aceitação|验收试验|工程 / 质量|
+critério de aceitação|验收标准；合格判据|工程 / 质量|
+conformidade|符合性；合规性|工程 / 质量|
+não conformidade|不符合项|工程 / 质量|
+relatório de não conformidade|不符合项报告|工程 / 质量|
+ação corretiva|纠正措施|工程 / 质量|
+ação preventiva|预防措施|工程 / 质量|
+plano de ação corretiva|纠正措施计划|工程 / 质量|
+reinspeção|复检|工程 / 质量|
+reteste|重新测试|工程 / 质量|
+registo de inspeção|检验记录|工程 / 质量|
+relatório de ensaio|试验报告|工程 / 质量|
+certificado de ensaio|试验证书|工程 / 质量|
+certificado de conformidade|符合性证书|工程 / 质量|
+certificado de calibração|校准证书|工程 / 质量|
+calibração|校准|工程 / 质量|
+rastreabilidade|可追溯性|工程 / 质量|
+tolerância dimensional|尺寸公差|工程 / 质量|
+desvio|偏差；偏离|工程 / 质量|
+desvio de alinhamento|轴线偏差|工程 / 质量|
+desvio de verticalidade|垂直度偏差|工程 / 质量|
+acabamento superficial|表面处理；表面平整度|工程 / 质量|
+segurança no trabalho|职业安全；施工安全|工程 / 安全|
+saúde e segurança no trabalho|职业健康与安全|工程 / 安全|
+segurança e saúde ocupacional|职业健康安全|工程 / 安全|
+plano de segurança e saúde|安全健康计划|工程 / 安全|
+análise de riscos|风险分析|工程 / 安全|
+avaliação de riscos|风险评估|工程 / 安全|
+análise preliminar de riscos|初步风险分析|工程 / 安全|
+perigo|危险源；危险|工程 / 安全|
+risco|风险|工程 / 安全|
+medida preventiva|预防措施|工程 / 安全|
+permissão de trabalho|作业许可|工程 / 安全|
+autorização de trabalho|作业批准；工作许可|工程 / 安全|
+trabalho em altura|高处作业|工程 / 安全|
+trabalho em espaço confinado|受限空间作业|工程 / 安全|
+trabalho a quente|动火作业|工程 / 安全|
+trabalho de escavação|开挖作业|工程 / 安全|
+içamento de cargas|起重吊装|工程 / 安全|巴葡常见
+elevação de cargas|吊装作业|工程 / 安全|
+equipamento de proteção individual|个人防护装备|工程 / 安全|EPI
+EPI|个人防护装备|工程 / 安全|常见缩略语
+equipamento de proteção coletiva|集体防护装备|工程 / 安全|
+capacete de segurança|安全帽|工程 / 安全|
+colete refletor|反光背心|工程 / 安全|
+calçado de segurança|安全鞋|工程 / 安全|
+luvas de proteção|防护手套|工程 / 安全|
+óculos de proteção|护目镜|工程 / 安全|
+proteção auditiva|听力防护|工程 / 安全|
+arnês de segurança|安全带；防坠落全身式安全带|工程 / 安全|
+linha de vida|生命绳；防坠落生命线|工程 / 安全|
+sistema anticaídas|防坠落系统|工程 / 安全|
+andaime certificado|合格脚手架|工程 / 安全|
+proteção de bordos|临边防护|工程 / 安全|
+sinalização de segurança|安全标识|工程 / 安全|
+barreira de segurança|安全围栏；防护屏障|工程 / 安全|
+primeiros socorros|急救|工程 / 安全|
+posto de primeiros socorros|急救站|工程 / 安全|
+plano de emergência|应急预案|工程 / 安全|
+plano de evacuação|疏散计划|工程 / 安全|
+incidente|事件；未遂事故|工程 / 安全|
+acidente de trabalho|工伤事故|工程 / 安全|
+quase acidente|未遂事故；险情|工程 / 安全|
+medida de mitigação|缓解措施；风险减轻措施|工程 / 安全|
+proteção ambiental|环境保护|工程 / 环保|
+gestão de resíduos|废弃物管理|工程 / 环保|
+resíduo perigoso|危险废弃物|工程 / 环保|
+poeira|粉尘|工程 / 环保|
+ruído|噪声|工程 / 环保|
+controlo de poeiras|扬尘控制|工程 / 环保|
+controlo de ruído|噪声控制|工程 / 环保|
+plano ambiental|环境管理计划|工程 / 环保|
+medidas de mitigação ambiental|环境缓解措施|工程 / 环保|
+## 工程动作
+construir|建造；施工|工程 / 动作|
+executar|实施；执行；施工|工程 / 动作|
+instalar|安装|工程 / 动作|
+montar|组装；安装|工程 / 动作|
+desmontar|拆卸；拆除|工程 / 动作|
+reparar|维修；修复|工程 / 动作|
+substituir|更换；替换|工程 / 动作|
+reforçar|加固；加强|工程 / 动作|
+consolidar|固结；加固|工程 / 动作|
+verificar|核查；核实|工程 / 动作|
+inspecionar|检查；检验|工程 / 动作|
+ensaiar|试验；测试|工程 / 动作|
+amostrar|抽样；取样|工程 / 动作|
+medir|测量；计量|工程 / 动作|
+calibrar|校准|工程 / 动作|
+monitorizar|监测|工程 / 动作|欧葡常用
+monitorar|监测|工程 / 动作|巴葡常用
+controlar|控制；监督|工程 / 动作|
+avaliar|评估|工程 / 动作|
+aprovar|批准；核准|工程 / 动作|
+validar|确认有效性；验证|工程 / 动作|
+certificar|认证；核证|工程 / 动作|
+rececionar|接收；办理验收|工程 / 动作|欧葡常用
+aceitar|接收；接受|工程 / 动作|
+entregar|提交；交付|工程 / 动作|
+submeter|提交；呈报|工程 / 动作|
+notificar|通知|工程 / 动作|
+informar|告知；通知|工程 / 动作|
+solicitar|申请；请求|工程 / 动作|
+requerer|申请；要求|工程 / 动作|
+reclamar|提出索赔；投诉|工程 / 动作|
+prorrogar|延长；延期|工程 / 动作|
+adiar|推迟；延期|工程 / 动作|
+suspender|暂停；中止|工程 / 动作|
+retomar|恢复；重新开始|工程 / 动作|
+concluir|完成；竣工|工程 / 动作|
+finalizar|结束；完成|工程 / 动作|
+mobilizar|动员进场|工程 / 动作|
+desmobilizar|撤场；退场|工程 / 动作|
+escavar|开挖|工程 / 动作|
+perfurar|钻孔；穿孔|工程 / 动作|
+sondar|钻探；探测|工程 / 动作|
+cravar|打入；沉入；打桩|工程 / 动作|
+compactar|压实|工程 / 动作|
+nivelar|找平；整平|工程 / 动作|
+aterrar|填土；回填|工程 / 动作|
+drenar|排水|工程 / 动作|
+bombear|泵送；抽水|工程 / 动作|
+injetar|注入；灌浆|工程 / 动作|
+betonar|浇筑混凝土|工程 / 动作|欧葡常用
+concretar|浇筑混凝土；使具体化|工程 / 动作|需结合语境
+vibrar|振捣；振动|工程 / 动作|
+curar|养护；固化|工程 / 动作|
+impermeabilizar|防水；防渗处理|工程 / 动作|
+soldar|焊接|工程 / 动作|
+cortar|切割；切断|工程 / 动作|
+dobrar|弯折；弯曲|工程 / 动作|
+alinhar|对齐；校准|工程 / 动作|
+aprumar|校正垂直度；立直|工程 / 动作|
+fixar|固定；紧固|工程 / 动作|
+apertar|拧紧；紧固|工程 / 动作|
+afrouxar|松开；放松|工程 / 动作|
+aparafusar|拧螺钉；用螺栓固定|工程 / 动作|
+lubrificar|润滑|工程 / 动作|
+energizar|送电；通电|工程 / 动作|
+desenergizar|断电|工程 / 动作|
+ligar|连接；接通；启动|工程 / 动作|
+desligar|断开；关机|工程 / 动作|
+operar|操作；运行|工程 / 动作|
+arrancar|启动|工程 / 动作|
+parar|停机；停止|工程 / 动作|
+avariar|损坏；发生故障|工程 / 动作|
+sanar|消除；整改|工程 / 动作|
+retificar|纠正；修复|工程 / 动作|
+limpar|清理；清洗|工程 / 动作|
+remover|拆除；移除|工程 / 动作|
+demolir|拆除；拆毁|工程 / 动作|
+transportar|运输|工程 / 动作|
+carregar|装载；充电|工程 / 动作|
+descarregar|卸载；排放|工程 / 动作|
+armazenar|储存|工程 / 动作|
+embalar|包装|工程 / 动作|
+expedir|发运；发送|工程 / 动作|
+receber|收到；接收|工程 / 动作|
+comissionar|调试；投运|工程 / 动作|

@@ -1,0 +1,24 @@
+{
+  "id": "./",
+  "name": "Vascário · 智能葡语词典",
+  "short_name": "Vascário",
+  "description": "Vascário P1.5 免费离线葡汉工程增强词典，词义、专业术语、例句与词组。",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#081427",
+  "theme_color": "#081427",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
