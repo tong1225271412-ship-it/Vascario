@@ -1,9 +1,50 @@
 {
-  "build_status": "awaiting_open_corpus_download",
   "curated_entry_count": 1379,
-  "selected_entries": 0,
-  "total_distinct_app_headwords": 1379,
-  "target": 10000,
+  "overlap_with_curated": 197,
+  "total_distinct_app_headwords": 8826,
   "target_met": false,
-  "note": "首次本地交付：开放词库下载与自动清洗尚未在远程 GitHub Actions 环境执行；绝不将目标数量算作已收录。"
+  "generated_utc": "2026-11-03T07:15:03.263135+00:00",
+  "source_urls": [
+    "https://kaikki.org/zhwiktionary/%E8%91%A1%E8%90%84%E7%89%99%E8%AA%9E/kaikki.org-dictionary-%E8%91%A1%E8%90%84%E7%89%99%E8%AA%9E.jsonl",
+    "https://kaikki.org/zhwiktionary/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/kaikki.org-dictionary-%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD.jsonl"
+  ],
+  "input_files": [
+    "data/sources/traditional.jsonl",
+    "data/sources/simplified.jsonl"
+  ],
+  "valid_distinct_entries": 7644,
+  "selected_entries": 7644,
+  "target": 10000,
+  "target_met_by_open_words": false,
+  "notices": [
+    "排除词形变化、空白或非中文释义；词义由 Wiktionary 提供且未经逐条审校。",
+    "词数仅统计独立检索词目，不含变位枚举。",
+    "开放词库受 CC BY-SA 许可约束，需署名并提供许可说明。"
+  ],
+  "part_of_speech_counts": {
+    "动词": 2775,
+    "名词": 3452,
+    "副词": 159,
+    "形容词": 1148,
+    "代词": 22,
+    "连词": 4,
+    "介词": 10,
+    "固定表达": 11,
+    "感叹词": 48,
+    "数词": 14,
+    "限定词": 1
+  },
+  "input_stats": {
+    "traditional.jsonl": {
+      "rows": 104087,
+      "valid_rows": 7298,
+      "duplicate_words": 625
+    },
+    "simplified.jsonl": {
+      "rows": 29725,
+      "valid_rows": 1059,
+      "duplicate_words": 88
+    }
+  },
+  "output_sha256": "0f014ad9c0e17e5fbe0ff3998f76adfbe37b01286dc826a2fc40ed5647a340c8"
 }
