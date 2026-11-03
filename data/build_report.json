@@ -1,9 +1,9 @@
 {
   "curated_entry_count": 1379,
-  "overlap_with_curated": 197,
-  "total_distinct_app_headwords": 8826,
+  "overlap_with_curated": 196,
+  "total_distinct_app_headwords": 8348,
   "target_met": false,
-  "generated_utc": "2026-11-03T07:15:03.263135+00:00",
+  "generated_utc": "2026-11-03T07:42:30.366212+00:00",
   "source_urls": [
     "https://kaikki.org/zhwiktionary/%E8%91%A1%E8%90%84%E7%89%99%E8%AA%9E/kaikki.org-dictionary-%E8%91%A1%E8%90%84%E7%89%99%E8%AA%9E.jsonl",
     "https://kaikki.org/zhwiktionary/%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD/kaikki.org-dictionary-%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD.jsonl"
@@ -13,7 +13,7 @@
     "data/sources/simplified.jsonl"
   ],
   "valid_distinct_entries": 7644,
-  "selected_entries": 7644,
+  "selected_entries": 7165,
   "target": 10000,
   "target_met_by_open_words": false,
   "notices": [
@@ -22,11 +22,11 @@
     "开放词库受 CC BY-SA 许可约束，需署名并提供许可说明。"
   ],
   "part_of_speech_counts": {
-    "动词": 2775,
-    "名词": 3452,
+    "动词": 2308,
+    "名词": 3442,
     "副词": 159,
     "形容词": 1148,
-    "代词": 22,
+    "代词": 20,
     "连词": 4,
     "介词": 10,
     "固定表达": 11,
@@ -46,5 +46,74 @@
       "duplicate_words": 88
     }
   },
-  "output_sha256": "0f014ad9c0e17e5fbe0ff3998f76adfbe37b01286dc826a2fc40ed5647a340c8"
+  "output_sha256": "0a440cfbc948ac67fb9c315f1dcaea155b2730342034123e34a3fb727e7634fa",
+  "quality_cleanup": {
+    "entries_before": 7644,
+    "entries_after": 7165,
+    "definitions_repaired": 788,
+    "entries_removed_no_valid_meaning": 479,
+    "inflection_or_junk_fragments_discarded": 909,
+    "example_changes": [
+      {
+        "word": "dá",
+        "old": "dar 的第三人称单数（ele和ela，亦用于você及其他代词）现在时直陈式 # dar 的第二人称单数（tu，有时用于você）肯定命令式；dar的省尾形；用于代词lo、la、los或las前面",
+        "clean": "dar的省尾形；用于代词lo、la、los或las前面"
+      },
+      {
+        "word": "ver",
+        "old": "看；看见；看",
+        "clean": "看；看见"
+      },
+      {
+        "word": "ser",
+        "old": "是，很。（表示永久性的特征，对比 estar）；（时间上）在，是，为；（对此前的陈述句进行回答或肯定） 正确，没错，无误",
+        "clean": "是，很。（表示永久性的特征，对比 estar；时间上）在，是，为；对此前的陈述句进行回答或肯定） 正确，没错，无误"
+      },
+      {
+        "word": "mãe",
+        "old": "母亲，妈妈；称呼自己的母亲；起源，源头；母体 （其他事物由此衍生、生成）",
+        "clean": "母亲，妈妈；称呼自己的母亲；起源，源头；母体 （其他事物由此衍生、生成"
+      },
+      {
+        "word": "ira",
+        "old": "愤怒；愤怒；发怒，使…发怒",
+        "clean": "愤怒；发怒，使…发怒"
+      },
+      {
+        "word": "vara",
+        "old": "枝条；枝条",
+        "clean": "枝条"
+      },
+      {
+        "word": "tala",
+        "old": "夹板 （用以固定身体部位或骨折处的薄且坚硬的器具）；挤压或施压以阻碍自由移动的物品；引起困难或限制的事物，累赘，障碍；一种皮鞭",
+        "clean": "夹板 （用以固定身体部位或骨折处的薄且坚硬的器具；挤压或施压以阻碍自由移动的物品；引起困难或限制的事物，累赘，障碍；一种皮鞭"
+      },
+      {
+        "word": "saga",
+        "old": "萨迦；传说，长篇故事（古诺尔斯语散文叙事）；萨迦；传说，长篇故事（长篇史诗故事）",
+        "clean": "萨迦；传说，长篇故事（古诺尔斯语散文叙事；传说，长篇故事（长篇史诗故事"
+      },
+      {
+        "word": "saci",
+        "old": "撒西（巴西民间传说人物，为一独腿黑人，抽着烟斗，戴着红帽子）；纹鹃（Tapera naevia）",
+        "clean": "撒西（巴西民间传说人物，为一独腿黑人，抽着烟斗，戴着红帽子；纹鹃（Tapera naevia"
+      },
+      {
+        "word": "sabá",
+        "old": "安息日；女巫安息日（传说女巫会面之日）",
+        "clean": "安息日；女巫安息日（传说女巫会面之日"
+      },
+      {
+        "word": "rumo",
+        "old": "路径；(航海) 方位",
+        "clean": "路径；航海) 方位"
+      },
+      {
+        "word": "pedi",
+        "old": "pedir 的第一人称单数（eu）过去时直陈式 # pedir 的第二人称复数（vós，有时用于vocês）肯定命令式；pedir的巴西视觉方言写法",
+        "clean": "pedir的巴西视觉方言写法"
+      }
+    ]
+  }
 }
