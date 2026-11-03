@@ -26,6 +26,123 @@ jobs:
       - name: Fetch open Chinese Wiktionary Portuguese data and build lexicon
         run: |
           python scripts/import_kaikki.py --download --out data/open_lexicon.json --report data/build_report.json --target 10000 --limit 15000
+      - name: Remove inflection notes from definitions (quality gate)
+        run: |
+          python - <<'PYFIX'
+          """Vascario open lexicon quality gate: remove inflection explanations from Chinese glosses.
+          Runs after the original Kaikki importer. Operates only on open-lexicon data, not curated/engineering entries.
+          """
+          import collections
+          import hashlib
+          import json
+          import re
+          from pathlib import Path
+          
+          DATA = Path('data/open_lexicon.json')
+          REPORT = Path('data/build_report.json')
+          CURATED = Path('data/curated_keys.json')
+          
+          # A source occasionally mixes a true definition with several morphological
+          # descriptions. A gloss describing a verb form is NOT a separate meaning.
+          GRAMMAR = re.compile(
+              r'(?:第[一二三123]|[123](?:st|nd|rd))\s*(?:人称|人稱)|'
+              r'人称不定式|人稱不定式|不定式|變位|变位|詞形變化|词形变化|'
+              r'虛擬式|虚拟式|假定式|命令式|直陳式|直陈式|'
+              r'現在分詞|现在分词|過去分詞|过去分词|動名詞|动名词|'
+              r'將來時|将来时|過去時|过去时|未完成過去|未完成过去|'
+              r'單數第[一二三]|单数第[一二三]|複數第[一二三]|复数第[一二三]|'
+              r'陰性複數|阴性复数|陽性複數|阳性复数|'
+              r'\b(?:first|second|third)[ -]person\b|\b(?:inflection|form of)\b',
+              re.I,
+          )
+          FORM_OF = re.compile(r'\b(?:[\wÀ-ÿ-]{2,})\s*[的之]\s*(?:陰性|阴性|陽性|阳性|複數|复数|單數|单数|比較級|比较级|最高級|最高级)', re.I)
+          HAN = re.compile(r'[\u3400-\u9fff]')
+          SPLIT = re.compile(r'\s*(?:[;；#\n\r]|\s+\#\s*)\s*')
+          
+          
+          def clean_gloss(value):
+              if not isinstance(value, str):
+                  return [], 0
+              cleaned = []
+              discarded = 0
+              seen = set()
+              for piece in SPLIT.split(value):
+                  piece = re.sub(r'\s+', ' ', piece).strip(' ·,，。.：:（）()[]{}-–')
+                  if not piece:
+                      continue
+                  # Do not present grammatical form labels as Chinese meanings.
+                  if GRAMMAR.search(piece) or FORM_OF.search(piece):
+                      discarded += 1
+                      continue
+                  if not HAN.search(piece) or len(piece) > 100:
+                      discarded += 1
+                      continue
+                  if piece not in seen:
+                      cleaned.append(piece)
+                      seen.add(piece)
+              return cleaned[:6], discarded
+          
+          
+          def main():
+              entries = json.loads(DATA.read_text(encoding='utf-8'))
+              report = json.loads(REPORT.read_text(encoding='utf-8'))
+              curated_keys = set(json.loads(CURATED.read_text(encoding='utf-8'))) if CURATED.exists() else set()
+              before = len(entries)
+              repaired = 0
+              removed = 0
+              discarded = 0
+              samples = []
+              result = {}
+              for word, entry in entries.items():
+                  before_def = entry.get('def', '')
+                  pieces, count = clean_gloss(before_def)
+                  discarded += count
+                  if not pieces:
+                      removed += 1
+                      continue
+                  new_def = '；'.join(pieces)
+                  if new_def != before_def:
+                      repaired += 1
+                      if len(samples) < 12:
+                          samples.append({'word': word, 'old': before_def[:100], 'clean': new_def})
+                  entry['def'] = new_def
+                  entry['senses'] = [{
+                      'title': pieces[0], 'scene': '开放词典 / 基础释义',
+                      'desc': '开放词库自动整理；释义及词性仍待人工审核。',
+                      'pt': '', 'br': '', 'zh': '',
+                      'tip': '词形和动词变位不计入释义。此词暂无经人工审核的例句。',
+                  }]
+                  result[word] = entry
+              DATA.write_text(json.dumps(result, ensure_ascii=False, separators=(',', ':')), encoding='utf-8')
+              distinct = len(set(result) | curated_keys)
+              report.update({
+                  'selected_entries': len(result),
+                  'curated_entry_count': len(curated_keys),
+                  'overlap_with_curated': len(set(result) & curated_keys),
+                  'total_distinct_app_headwords': distinct,
+                  'target_met': distinct >= int(report.get('target', 10000)),
+                  'target_met_by_open_words': len(result) >= int(report.get('target', 10000)),
+                  'part_of_speech_counts': dict(collections.Counter(v.get('pos', '其他') for v in result.values())),
+                  'output_sha256': hashlib.sha256(DATA.read_bytes()).hexdigest(),
+                  'quality_cleanup': {
+                      'entries_before': before,
+                      'entries_after': len(result),
+                      'definitions_repaired': repaired,
+                      'entries_removed_no_valid_meaning': removed,
+                      'inflection_or_junk_fragments_discarded': discarded,
+                      'example_changes': samples,
+                  },
+              })
+              REPORT.write_text(json.dumps(report, ensure_ascii=False, indent=2), encoding='utf-8')
+              print('Quality gate:', before, '->', len(result), 'entries | repaired', repaired, '| removed', removed)
+              print('Total curated + open:', distinct, '| target met:', report['target_met'])
+              if 'desenhar' in result:
+                  print('desenhar:', result['desenhar']['def'])
+          
+          
+          if __name__ == '__main__':
+              main()
+          PYFIX
       - name: Print lexicon report
         run: |
           python - <<'PY'
